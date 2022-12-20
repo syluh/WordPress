@@ -3,7 +3,7 @@ Imitación de la página del banco del austro con wordpress
 - Se uso la plantilla Astra (por la facifilidad de edición)
 - Se uso elementor ya que permitia una mejor distribución
 - Se realizo la página prinpipal del banco del autro: https://www.bancodelaustro.com/
-- Para entrar a la página secundaria realizada se entra en personas y cuenta de ahorros digital
+- Para entrar a la página secundaria realizada se entra en personas y cuenta de ahorros digital:
 ![imagen](https://user-images.githubusercontent.com/73541103/208709296-5a2848a8-46ed-48b9-9483-1383a7c16dde.png)
 
 - Las credenciales para entrar al wordpress son: usuario: syluh , contraseña: syluh, correo: vecarrion3@utpl.edu.ec
